@@ -1,0 +1,6 @@
+{
+  "name": "Ollama Dev Container",
+  "features": {
+    "ghcr.io/prulloac/devcontainer-features/ollama:1": {}
+  }
+}
