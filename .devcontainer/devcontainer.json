@@ -1,5 +1,6 @@
 {
-  "name": "Ollama Dev Container",
+  "name": "Ollama Dev",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
   "features": {
     "ghcr.io/prulloac/devcontainer-features/ollama:1": {}
   }
