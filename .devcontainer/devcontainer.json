@@ -1,0 +1,11 @@
+{
+  "name": "Ollama Devcontainer",
+  "build": {
+    "dockerfile": "./Dockerfile"
+  },
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "containerUser": "root",
+  "features": {
+    "ghcr.io/prulloac/devcontainer-features/ollama:1": {}
+  }
+}
